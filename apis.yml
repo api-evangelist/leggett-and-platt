@@ -25,6 +25,10 @@ common:
     url: https://www.leggett.com
   - type: Investor Relations
     url: https://investors.leggett.com
+  - type: Integrations
+    url: https://leggett.com/integrations
+integrations:
+  - name: Leggett & Platt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
