@@ -27,7 +27,7 @@ common:
     url: https://investors.leggett.com
   - type: Integrations
     url: https://leggett.com/integrations
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://leggett.com/llms.txt
 integrations:
   - name: Leggett & Platt
