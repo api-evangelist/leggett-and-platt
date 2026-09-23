@@ -1,7 +1,9 @@
 ---
 title: Leggett & Platt Q1 sales fall, Somnigroup deal set
 url: https://www.stocktitan.net/sec-filings/LEG/10-q-leggett-platt-inc-quarterly-earnings-report-3bb186bdf706.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Leggett & Platt" press release artificial intelligence'
 position: 5
 source: serpapi-google
