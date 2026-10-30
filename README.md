@@ -1,4 +1,4 @@
-# Leggett and Platt (leggett-and-platt)
+# Leggett and Platt
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,34 +66,78 @@
 
 Leggett and Platt is a diversified manufacturer that designs and produces engineered components and products found in many homes, offices, vehicles, and aircraft, including bedding components, automotive seating, hydraulic cylinders, and aerospace tube assemblies. No public REST APIs or developer portal have been identified at this time.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/leggett-and-platt/refs/heads/main/apis.yml)
+**Areas:** Manufacturing · Bedding Components · Automotive Seating · Aerospace · Fortune 500
 
-## Scope
+## Leggett and Platt on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Leggett and Platt is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/leggett-and-platt/](https://apis.io/providers/leggett-and-platt/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### Published properties
 
- - Manufacturing, Bedding Components, Automotive Seating, Aerospace, Fortune 500
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (1)
 
-No public APIs have been documented for Leggett and Platt at this time. The company publishes corporate, business division, and investor information on its website but does not operate a public developer portal or REST API.
+Authentication, trust centre, and vulnerability disclosure.
 
-## Timestamps
+- [Leggett And Platt Domain Security](https://apis.io/security/leggett-and-platt/leggett-and-platt-domain-security/)
 
-- **Created:** 2026-03-24
-- **Modified:** 2026-04-28
+## Where to find this API
 
-## Common Properties
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://www.leggett.com)
-- [Investor Relations](https://investors.leggett.com)
+- [Blog](https://leggett.com/blog)
 
-## Maintainers
+## API Evangelist rating
 
-**FN:** Kin Lane
+**Kin Score 4.6** — minimal · rubric 0.24.0 · scored 2026-10-17
 
-**Email:** kin@apievangelist.com
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 0.0 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/leggett-and-platt/](https://apis.io/providers/leggett-and-platt/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Leggett and Platt: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/leggett-and-platt/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
